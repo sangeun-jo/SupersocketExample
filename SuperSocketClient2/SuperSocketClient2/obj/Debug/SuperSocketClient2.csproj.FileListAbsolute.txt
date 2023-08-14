@@ -1,8 +1,0 @@
-C:\dev\SuperSocketClient2\SuperSocketClient2\bin\Debug\SuperSocketClient2.exe.config
-C:\dev\SuperSocketClient2\SuperSocketClient2\bin\Debug\SuperSocketClient2.exe
-C:\dev\SuperSocketClient2\SuperSocketClient2\bin\Debug\SuperSocketClient2.pdb
-C:\dev\SuperSocketClient2\SuperSocketClient2\obj\Debug\SuperSocketClient2.csproj.AssemblyReference.cache
-C:\dev\SuperSocketClient2\SuperSocketClient2\obj\Debug\SuperSocketClient2.csproj.SuggestedBindingRedirects.cache
-C:\dev\SuperSocketClient2\SuperSocketClient2\obj\Debug\SuperSocketClient2.csproj.CoreCompileInputs.cache
-C:\dev\SuperSocketClient2\SuperSocketClient2\obj\Debug\SuperSocketClient2.exe
-C:\dev\SuperSocketClient2\SuperSocketClient2\obj\Debug\SuperSocketClient2.pdb

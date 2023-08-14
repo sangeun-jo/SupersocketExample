@@ -1,6 +1,6 @@
 ﻿using SuperSocket.Common;
-using SuperSocket.Facility.Protocol;
 using SuperSocket.SocketBase.Protocol;
+using SuperSocket.SocketEngine.Protocol;
 using System;
 using System.Collections.Generic;
 using System.Linq;

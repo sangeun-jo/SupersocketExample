@@ -43,7 +43,7 @@ namespace SuperSocketServer
 
         public void CreateServer()
         {
-            bool bResult = Setup(new RootConfig(), m_Config, logFactory: new Log4NetLogFactory());
+            bool bResult = Setup(new RootConfig(), m_Config, logFactory: new ConsoleLogFactory());
 
             if(bResult == false)
             {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj": {}
+    "C:\\dev\\SupersocketExample\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj": {}
   },
   "projects": {
-    "C:\\dev\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj": {
+    "C:\\dev\\SupersocketExample\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj",
+        "projectUniqueName": "C:\\dev\\SupersocketExample\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj",
         "projectName": "SuperSocketClient",
-        "projectPath": "C:\\dev\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj",
+        "projectPath": "C:\\dev\\SupersocketExample\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj",
         "packagesPath": "C:\\Users\\Koreasoft\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\SuperSocketClient\\SuperSocketClient\\obj\\",
+        "outputPath": "C:\\dev\\SupersocketExample\\SuperSocketClient\\SuperSocketClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Koreasoft\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,7 +7,7 @@ int port = 18732;
 
 if (socket.conn(address, port))
 {
-    Console.WriteLine($"{DateTime.Now}. 서버에 접속 중");
+    Console.WriteLine($"{DateTime.Now}. 서버에 접속 성공");
 }
 else
 {

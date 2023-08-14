@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+DxZq86DZW0x8LBbHUCeHq9BR/vZIWfuVaOuC/kGW3U1CGoJ/+ucgkdXcYifuSMfoJa+dUkCcd7JbSyE50fDyQ==",
+  "dgSpecHash": "MGJERWKm3jxVhyqeVzrHtbDDQPytGfTK+tCFQ7eMQz4LUPam+KPzz0Bd9MtheW/9Nzm+y1nPeIzzqLAAP4kcCw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj",
+  "projectFilePath": "C:\\dev\\SupersocketExample\\SuperSocketClient\\SuperSocketClient\\SuperSocketClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
