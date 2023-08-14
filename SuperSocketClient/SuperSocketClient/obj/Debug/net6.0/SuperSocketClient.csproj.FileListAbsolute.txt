@@ -1,0 +1,15 @@
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.csproj.AssemblyReference.cache
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.AssemblyInfoInputs.cache
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.AssemblyInfo.cs
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.csproj.CoreCompileInputs.cache
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\bin\Debug\net6.0\SuperSocketClient.exe
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\bin\Debug\net6.0\SuperSocketClient.deps.json
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\bin\Debug\net6.0\SuperSocketClient.runtimeconfig.json
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\bin\Debug\net6.0\SuperSocketClient.dll
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\bin\Debug\net6.0\SuperSocketClient.pdb
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.dll
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\refint\SuperSocketClient.dll
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.pdb
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\SuperSocketClient.genruntimeconfig.cache
+C:\dev\SuperSocketServer\SuperSocketClient\SuperSocketClient\obj\Debug\net6.0\ref\SuperSocketClient.dll

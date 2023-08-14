@@ -1,0 +1,5 @@
+C:\dev\SuperSocketServer\SuperSocketServer\SuperSocketServer\obj\Debug\net5.0\SuperSocketServer.csproj.AssemblyReference.cache
+C:\dev\SuperSocketServer\SuperSocketServer\SuperSocketServer\obj\Debug\net5.0\SuperSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\SuperSocketServer\SuperSocketServer\SuperSocketServer\obj\Debug\net5.0\SuperSocketServer.AssemblyInfoInputs.cache
+C:\dev\SuperSocketServer\SuperSocketServer\SuperSocketServer\obj\Debug\net5.0\SuperSocketServer.AssemblyInfo.cs
+C:\dev\SuperSocketServer\SuperSocketServer\SuperSocketServer\obj\Debug\net5.0\SuperSocketServer.csproj.CoreCompileInputs.cache
